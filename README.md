@@ -52,7 +52,7 @@ git clone (https://github.com/cosmos010101/LlanquihueTourSemana5.git)
 ---
 
 **Repositorio GitHub:** (https://github.com/cosmos010101/LlanquihueTourSemana5.git)
-**Fecha de entrega:** 15/06/2026
+**Fecha de entrega:** 22/06/2026
 
 ---
 
