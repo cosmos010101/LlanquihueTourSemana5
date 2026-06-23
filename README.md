@@ -37,7 +37,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone (https://github.com/cosmos010101/llanquihue-tour.git)
+git clone (https://github.com/cosmos010101/LlanquihueTourSemana5.git)
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -51,7 +51,7 @@ git clone (https://github.com/cosmos010101/llanquihue-tour.git)
 
 ---
 
-**Repositorio GitHub:** (https://github.com/cosmos010101/llanquihue-tour.git)
+**Repositorio GitHub:** (https://github.com/cosmos010101/LlanquihueTourSemana5.git)
 **Fecha de entrega:** 15/06/2026
 
 ---
