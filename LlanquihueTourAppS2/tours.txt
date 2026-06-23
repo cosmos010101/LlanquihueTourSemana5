@@ -1,0 +1,5 @@
+Ruta de los Volcanes;PuertoMontt;Dos días;95000
+Isla de Chiloé;Chiloé;Una semana;62000
+Crucero Lagos;Puerto Montt; Dos semanas;95000
+Gastronomía Local;Llanquihue;5 horas;48000
+Saltos del Petrohué;Petrohué;1 día;3000

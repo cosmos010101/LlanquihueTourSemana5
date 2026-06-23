@@ -1,0 +1,4 @@
+Sherlock;Holmes;Cliente
+John;Watson;Guía turístico
+Greg;Lestrade;Proveedor
+Mycroft;Holmes;Cliente
